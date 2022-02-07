@@ -1,4 +1,4 @@
-### Olá! Eu sou o Charles 👋
+### Hello! I'm Charles 👋
 
 <!--
 <div align="center">
