@@ -9,7 +9,6 @@
 -->
 
 - 🎓 Graduate student in [Software Engineering](https://fga.unb.br/software) at the [University of Brasilia](https://www.unb.br/) (UnB)
-- 🌱 Learning Java and Node.js
 
 
 <div> 
