@@ -3,9 +3,9 @@ Olá! Eu sou o Charles 👋
 </h1>
 
 <!-- Descrição -->
-<div align="center">
+<h4 align="center">
 <td align="center">Estudante de <a href="https://fga.unb.br/software">Engenharia de Software</a> na <a href="https://www.unb.br/">Universidade de Brasília</a> (UnB) 🎓
-<div>
+</h4>
 
 ##
 
@@ -19,9 +19,11 @@ Olá! Eu sou o Charles 👋
 ##
 
 <!-- Contatos -->
+<h4 align="center">
 Como me contatar:
-<div align="center"> 
+<br>
+<br>
   <a href = "mailto:charles.serafim.morais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/qUhUne6r" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/charles-serafim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+</h4>
