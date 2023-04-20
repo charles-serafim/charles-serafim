@@ -13,7 +13,6 @@ Olá! Eu sou o Charles 👋
 <div align="center">
   <a href:"https://github.com/charles-serafim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charles-serafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-serafim&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 ##
