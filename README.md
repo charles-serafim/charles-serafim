@@ -9,11 +9,11 @@ Olá! Eu sou o Charles 👋
 
 ##
 
-<!-- Estatísticas -->
+<!-- Estatísticas 
 <div align="center">
   <a href:"https://github.com/charles-serafim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charles-serafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-</div>
+</div>-->
 
 ##
 
