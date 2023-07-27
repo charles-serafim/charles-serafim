@@ -82,10 +82,10 @@ Hello! I'm Charles 👋
 
 <div style="margin-left:30px">
 <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=charles-serafim&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" height="210px" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=charles-serafim&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" height="210px" width="50%">
 </span> 
 <span style="margin-left: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-serafim&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="210px" width="46%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-serafim&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="210px" width="46%">
 </span>
 
 <span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles-serafim&theme=monokai&hide_border=false" height="210px" width="100%"> </span>
