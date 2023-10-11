@@ -4,7 +4,6 @@ Hello! I'm Charles 👋
 
 # 🗣️ About Me:
 
-💻 I’m currently working as a part-time <strong>IT intern</strong> at [Cebraspe](https://www.linkedin.com/company/cebraspe/)<br>
 ⌚ My most used language atm is <strong>C#</strong><br>
 📕 I’m currently learning <strong>ASP.NET Core MVC</strong><br>
 🎓 Software Engineering student at [University of Brasília](https://www.unb.br/)
