@@ -5,7 +5,8 @@ Hello! I'm Charles 👋
 # 🗣️ About Me:
 
 ⌚ My most used language atm is <strong>C#</strong><br>
-📕 I’m currently learning <strong>ASP.NET Core MVC</strong><br>
+💻 Working with fullstack development in .NET at Cebraspe<br>
+📕 I’m currently learning about databases, network systems and programming paradigms<br>
 🎓 Software Engineering student at [University of Brasília](https://www.unb.br/)
 
 ## 🌎 Socials:
